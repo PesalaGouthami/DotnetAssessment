@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\bin\Debug\net8.0\InvalidDateExceptionAss2.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\bin\Debug\net8.0\InvalidDateExceptionAss2.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\bin\Debug\net8.0\InvalidDateExceptionAss2.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\bin\Debug\net8.0\InvalidDateExceptionAss2.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\bin\Debug\net8.0\InvalidDateExceptionAss2.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\refint\InvalidDateExceptionAss2.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\InvalidDateExceptionAss2.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InvalidDateExceptionAss2\obj\Debug\net8.0\ref\InvalidDateExceptionAss2.dll

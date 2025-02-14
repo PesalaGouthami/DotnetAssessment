@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\bin\Debug\net8.0\MobileValidationAss3.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\bin\Debug\net8.0\MobileValidationAss3.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\bin\Debug\net8.0\MobileValidationAss3.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\bin\Debug\net8.0\MobileValidationAss3.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\bin\Debug\net8.0\MobileValidationAss3.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\refint\MobileValidationAss3.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\MobileValidationAss3.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\MobileValidationAss3\obj\Debug\net8.0\ref\MobileValidationAss3.dll

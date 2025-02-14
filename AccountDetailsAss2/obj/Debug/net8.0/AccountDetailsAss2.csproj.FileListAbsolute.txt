@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\bin\Debug\net8.0\AccountDetailsAss2.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\bin\Debug\net8.0\AccountDetailsAss2.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\bin\Debug\net8.0\AccountDetailsAss2.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\bin\Debug\net8.0\AccountDetailsAss2.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\bin\Debug\net8.0\AccountDetailsAss2.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\refint\AccountDetailsAss2.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\AccountDetailsAss2.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\AccountDetailsAss2\obj\Debug\net8.0\ref\AccountDetailsAss2.dll

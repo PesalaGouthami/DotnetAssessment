@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\bin\Debug\net8.0\GSTCalculationAss3.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\bin\Debug\net8.0\GSTCalculationAss3.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\bin\Debug\net8.0\GSTCalculationAss3.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\bin\Debug\net8.0\GSTCalculationAss3.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\bin\Debug\net8.0\GSTCalculationAss3.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\refint\GSTCalculationAss3.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\GSTCalculationAss3.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\GSTCalculationAss3\obj\Debug\net8.0\ref\GSTCalculationAss3.dll

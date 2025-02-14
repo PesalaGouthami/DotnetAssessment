@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\bin\Debug\net8.0\ArrayOfObjectsAss1.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\bin\Debug\net8.0\ArrayOfObjectsAss1.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\bin\Debug\net8.0\ArrayOfObjectsAss1.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\bin\Debug\net8.0\ArrayOfObjectsAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\bin\Debug\net8.0\ArrayOfObjectsAss1.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\refint\ArrayOfObjectsAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ArrayOfObjectsAss1.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\ArrayOfObjectsAss1\obj\Debug\net8.0\ref\ArrayOfObjectsAss1.dll

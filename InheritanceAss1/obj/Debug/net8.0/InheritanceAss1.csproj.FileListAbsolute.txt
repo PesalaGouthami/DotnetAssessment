@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\bin\Debug\net8.0\InheritanceAss1.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\bin\Debug\net8.0\InheritanceAss1.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\bin\Debug\net8.0\InheritanceAss1.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\bin\Debug\net8.0\InheritanceAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\bin\Debug\net8.0\InheritanceAss1.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\refint\InheritanceAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\InheritanceAss1.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\InheritanceAss1\obj\Debug\net8.0\ref\InheritanceAss1.dll

@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\bin\Debug\net8.0\CollectionsAss1.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\bin\Debug\net8.0\CollectionsAss1.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\bin\Debug\net8.0\CollectionsAss1.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\bin\Debug\net8.0\CollectionsAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\bin\Debug\net8.0\CollectionsAss1.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\refint\CollectionsAss1.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\CollectionsAss1.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\CollectionsAss1\obj\Debug\net8.0\ref\CollectionsAss1.dll
