@@ -1,0 +1,14 @@
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\bin\Debug\net8.0\LINQAss4.exe
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\bin\Debug\net8.0\LINQAss4.deps.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\bin\Debug\net8.0\LINQAss4.runtimeconfig.json
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\bin\Debug\net8.0\LINQAss4.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\bin\Debug\net8.0\LINQAss4.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.AssemblyInfoInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.AssemblyInfo.cs
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.csproj.CoreCompileInputs.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\refint\LINQAss4.dll
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.pdb
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\LINQAss4.genruntimeconfig.cache
+C:\Users\pesala.gouthami\source\repos\SampleDemo\LINQAss4\obj\Debug\net8.0\ref\LINQAss4.dll
